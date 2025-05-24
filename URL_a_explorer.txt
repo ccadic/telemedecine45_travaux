@@ -1,0 +1,17 @@
+
+https://en.wikipedia.org/wiki/Internist-I
+INTERNIST-I (or INTERNIST-1[1]) was a broad-based computer-assisted decision tree developed in the early 1970s at the University of Pittsburgh as an educational experiment. The INTERNIST system was designed primarily by AI pioneer and Computer Scientist Harry Pople to capture the diagnostic expertise of Jack D. Myers, chairman of internal medicine in the University of Pittsburgh School of Medicine. The Division of Research Resources and the National Library of Medicine funded INTERNIST-I. Other major collaborators on the project included Randolph A. Miller and Kenneth "Casey" Quayle, who did much of the implementation of INTERNIST and its successors.
+
+https://medvir.fr/#:~:text=La%20rigueur%20scientifique%20au%20c%C5%93ur,de%20la%20d%C3%A9marche
+
+https://www.opencds.org/
+
+https://infermedica.com/inference-engine
+
+https://github.com/mila-iqia/ddxplus  / a etudier en profondeur
+https://github.com/imonishkumar/Symptom-Checker-Chatbot  / a etudier en profondeur
+
+https://research.google/blog/amie-a-research-ai-system-for-diagnostic-medical-reasoning-and-conversations/
+
+https://github.com/Kent0n-Li/ChatDoctor
+
